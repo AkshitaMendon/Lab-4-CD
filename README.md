@@ -54,7 +54,7 @@ tmux
 
 ## 2. Workflow Script
 
-Use the workflow script from  [this repository](https://github.com/mehilshah/Lab-4-CD/blob/main/.github/workflows/maven.yml)  as a template for your CI/CD pipeline. The script includes steps for:
+Use the workflow script from  [this repository](https://github.com/mehilshah/Lab-4-CD/blob/main/.github/workflows/maven.yml)  as a template for your CI/CD pipeline. The script includes steps for:.
 
 -   Building the Java application with Maven
 -   Building and pushing a Docker image
